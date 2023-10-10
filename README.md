@@ -1,16 +1,28 @@
-### Hi there 👋
+###  Hello there, I'm Rafael! 🐦
+- Graduated in Information Systems from the University Center of the Barretos Educational Foundation - UNIFEB.
+- 5 (five) years of Fluig BPMN/ECM development
 
-<!--
-**bisgod/bisgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages e Tools 💻
+<div style="display: inline">
+  <img loading="lazy" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+  <img loading="lazy" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+  <img loading="lazy" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/> 
+  <img loading="lazy" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width6040" height="60"/>
+  <img loading="lazy" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
+  <img loading="lazy" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
+  <img loading="lazy" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
+  <img loading="lazy" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+</div> 
+          
+## GitHub Stats ⚡
+<div>
+  <a href="https://github.com/bisgod">
+  <center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bisgod&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
+  </center>
+  <center>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisgod&layout=compact&langs_count=7&theme=radical"/> 
+  </center>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reach me 📫
