@@ -1,6 +1,8 @@
 ###  Hello there, I'm Rafael! 🐦
 - Graduated in Information Systems from the University Center of the Barretos Educational Foundation - UNIFEB.
-- 5 (five) years of Fluig BPMN/ECM development
+- 4 (four) years of Fluig BPMN/ECM development, developing flowcharts (BPMN 2.0) and forms integrated with external databases. 📂
+- I love developing useful applications that help me in my daily life. 🌞
+- I understand a lot about frontend/backend web development and am currently learning languages ​​that are not so web-oriented. 🖥
 
 ## Languages e Tools 💻
 <div style="display: inline">
@@ -18,6 +20,8 @@
 <div style="display: inline">
   <img loading="lazy" alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/>
   <img loading="lazy" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+  <img loading="lazy" alt="discordjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="60" height="60"/>
+  <img loading="lazy" alt="elixir" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="60" height="60"/>
 </div>
           
 ## GitHub Stats ⚡
