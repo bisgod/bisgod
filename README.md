@@ -1,6 +1,6 @@
 ###  Hello there, I'm Rafael! 🐦
 - Graduated in Information Systems from the University Center of the Barretos Educational Foundation - UNIFEB.
-- 4 (four) years of Fluig BPMN/ECM development, developing flowcharts (BPMN 2.0) and forms integrated with external databases. 📂
+- 4 (four) years of Fluig BPMN/ECM development, developing flowcharts (BPMN 2.0) and forms connecting with external databases. 📂
 - I love developing useful applications that help me in my daily life. 🌞
 - I understand a lot about frontend/backend web development and am currently learning languages ​​that are not so web-oriented. 🖥
 
