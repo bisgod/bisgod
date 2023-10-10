@@ -11,8 +11,14 @@
   <img loading="lazy" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
   <img loading="lazy" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
   <img loading="lazy" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
+  <img loading="lazy" alt="python" src="https://play-lh.googleusercontent.com/ZjCNLQRiCrcJ3tJ_7HHbyqnqX9qKJBf696KG-omN0tnqXCN9LrcWvFjfDx5cwJuCEro=s48-rw" width="60" height="60"/>
+</div>
+
+## Currently Learning 📚
+<div style="display: inline">
+  <img loading="lazy" alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60"/>
   <img loading="lazy" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
-</div> 
+</div>
           
 ## GitHub Stats ⚡
 <div>
