@@ -11,7 +11,7 @@
   <img loading="lazy" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/>
   <img loading="lazy" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
   <img loading="lazy" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
-  <img loading="lazy" alt="python" src="https://play-lh.googleusercontent.com/ZjCNLQRiCrcJ3tJ_7HHbyqnqX9qKJBf696KG-omN0tnqXCN9LrcWvFjfDx5cwJuCEro=s48-rw" width="60" height="60"/>
+  <img loading="lazy" alt="fluig" src="https://play-lh.googleusercontent.com/ZjCNLQRiCrcJ3tJ_7HHbyqnqX9qKJBf696KG-omN0tnqXCN9LrcWvFjfDx5cwJuCEro=s48-rw" width="60" height="60"/>
 </div>
 
 ## Currently Learning 📚
